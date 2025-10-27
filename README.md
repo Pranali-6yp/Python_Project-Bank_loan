@@ -18,7 +18,7 @@ The goal is to understand loan approval trends, identify key factors affecting l
 
 # Project Structure
 •	Dataset: <a href= "https://github.com/Pranali-6yp/Python_Project-Bank_loan/blob/main/financial_loan.csv" </a>      <br>
-•	Jupyter notebook:
+•	Jupyter notebook:<a href="https://github.com/Pranali-6yp/Python_Project-Bank_loan/blob/main/Bank%20loan%20analysis.ipynb" </a>
 
 # Results
 •	Data visualization highlights approval trends across different applicant categories. <br>
