@@ -17,7 +17,7 @@ The goal is to understand loan approval trends, identify key factors affecting l
 •	Self-employed individuals tend to have more loan rejections due to inconsistent income sources.
 
 # Project Structure
-•	Dataset:       <br>
+•	Dataset: <a href= "https://github.com/Pranali-6yp/Python_Project-Bank_loan/blob/main/financial_loan.csv" </a>      <br>
 •	Jupyter notebook:
 
 # Results
