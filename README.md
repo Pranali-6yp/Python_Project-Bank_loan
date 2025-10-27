@@ -6,13 +6,20 @@ This project focuses on analysing bank loan data using Python in Jupyter Noteboo
 The goal is to understand loan approval trends, identify key factors affecting loan status, and support data-driven lending decisions.
 
 # Objectives
-•	Analyze customer demographic and financial data.
-•	Identify patterns in loan approval and rejection.
-•	Evaluate relationships between income, loan amount, credit history, and loan status.
-•	Provide actionable insights to improve loan eligibility predictions.
+•	Analyze customer demographic and financial data. <br>
+•	Identify patterns in loan approval and rejection. <br>
+•	Evaluate relationships between income, loan amount, credit history, and loan status. <br>
+•	Provide actionable insights to improve loan eligibility predictions. 
 
 # Key Insights
-•	Applicants with a good credit history have a higher approval rate.
-•	Applicant income and loan amount strongly influence loan eligibility.
+•	Applicants with a good credit history have a higher approval rate. <br>
+•	Applicant income and loan amount strongly influence loan eligibility. <br>
 •	Self-employed individuals tend to have more loan rejections due to inconsistent income sources.
 
+# Project Structure
+•	Dataset:       <br>
+•	Jupyter notebook:
+
+# Results
+•	Data visualization highlights approval trends across different applicant categories. <br>
+•	Insights can help financial institutions enhance their risk assessment models.
